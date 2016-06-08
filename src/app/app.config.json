@@ -1,0 +1,13 @@
+{
+  "appname": "Northern Lights Bikes",
+  "ocscope": "FullAccess ProductAdmin ProductReader InventoryAdmin ProductAssignmentAdmin BuyerAdmin BuyerReader CategoryAdmin CategoryReader AddressAdmin AddressReader CostCenterAdmin CostCenterReader CouponAdmin CouponReader CreditCardAdmin CreditCardReader EmailTemplateAdmin EmailTemplateReader PriceScheduleAdmin PriceScheduleReader SpendingAccountAdmin SpendingAccountReader BuyerUserAdmin BuyerUserReader UserGroupAdmin UserGroupReader ApprovalRuleAdmin ApprovalRuleReader PermissionAdmin OverrideUnitPrice ChangeCreditCardOrders ChangeNonCreditCardOrders OverrideShipping OverrideTax SetSecurityProfile DevCenterWebHookAdmin",
+  "clientid": "67862EE4-9C9B-41B3-B55E-5119BDACAD4A",
+  "buyerid": "NLBBuyer",
+  "environment": "prod",
+  "base": {
+    "left":true,
+    "right":false,
+    "top":true,
+    "bottom":false
+  }
+}
